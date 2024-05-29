@@ -1,5 +1,4 @@
 Hello
 bye
 hi
-end
 anh da den
